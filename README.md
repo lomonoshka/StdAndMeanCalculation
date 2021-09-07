@@ -5,4 +5,4 @@
 
 <img src="https://render.githubusercontent.com/render/math?math=x_n = x_{n-1} + (num_n - x_{n-1}) / n">
 
-<img src="https://render.githubusercontent.com/render/math?math=s_n = \sqrt{((n - 2) * s_{n-1}^{2} + (num_n - x_n) * (num_n - x_{n-1})) / (n - 1)}">
+<img src="https://render.githubusercontent.com/render/math?math=s_n = \sqrt{((n - 2) * s_{n-1}^{2} plus (num_n - x_n) * (num_n - x_{n-1})) / (n - 1)}">
