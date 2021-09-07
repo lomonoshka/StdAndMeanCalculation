@@ -6,3 +6,9 @@
 <img src="https://render.githubusercontent.com/render/math?math=x_n = \dfrac{x_{n-1} %2B (num_n - x_{n-1})}{n}">
 
 <img src="https://render.githubusercontent.com/render/math?math=s_n = \sqrt{\dfrac{(n - 2) * s_{n-1}^{2} %2B (num_n - x_n) * (num_n - x_{n-1})}{(n - 1)}}">
+
+#Запуск
+Чтобы скомпилировать решение нужно выполнить следующию команду
+``` bash
+make
+```
